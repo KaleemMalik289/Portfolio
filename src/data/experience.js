@@ -12,6 +12,18 @@ export const experience = [
       "Delivered an interactive Streamlit dashboard for real-time AQI monitoring and model interpretability"
     ],
     technologies: ["Python", "Machine Learning", "GitHub Actions", "Streamlit", "XGBoost"]
+  },
+  {
+    role: "Intern",
+    company: "ISPR",
+    location: "Pakistan",
+    duration: "June 2025",
+    description: "Gained professional exposure to strategic communication, national security, and the operational environment of a major national institution.",
+    achievements: [
+      "Analyzed the intersection of technology, information, and strategic communication for national-level objectives.",
+      "Strengthened analytical thinking, research, cross-functional communication, and teamwork skills within a high-stakes operational environment."
+    ],
+    technologies: ["Strategic Communication", "Research", "Analytical Thinking", "National Security"]
   }
 ];
 
